@@ -1,9 +1,15 @@
-import Hero from "./Hero"
+import Hero from "./Hero";
+import Projects from "./Projects";
+import Footer from "./Footer";
 
 const Main = () => {
   return (
-    <Hero />
-  )
-}
+    <>
+      <Hero />
+      <Projects />
+      <Footer />
+    </>
+  );
+};
 
-export default Main
+export default Main;
