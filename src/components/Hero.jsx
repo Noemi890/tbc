@@ -12,11 +12,14 @@ const Hero = () => {
           <p className="py-6">
             Junior Software Developer 
           </p>
-          <p>
+          <p className="py-6">
             I am a passionate and creative developer, always positive and proactive,
             with a great willigness to learn. After an intensive 6 months
             full-time course I am now seeking an opportunity to change my future
             and enter in the tech industry.
+          </p>
+          <p>
+          After an intensive 6 months full-time course I am now seeking an opportunity to change my future and enter in the tech industry.
           </p>
         </div>
       </div>

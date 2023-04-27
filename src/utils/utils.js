@@ -18,7 +18,7 @@ export const projects = [
   },
   {
     name: 'PlayNation',
-    intro: 'A simple serverless application, made with mock data using a JSON file, to improve my skills using React, JavaScript, CSS and Tailwind.',
+    intro: 'A simple serverless application, made with mock data using a JSON file.',
     description: 'A Website that allows the User, through a list of games, to choose the game he is interested in and have more information about it, with the possibility to be redirected to the game website.',
     img: play_nation_logo,
     video: play_nation_video,
