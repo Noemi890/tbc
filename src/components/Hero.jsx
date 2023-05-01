@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <div id="intro" className="hero min-h-screen bg-base-200">
+    <div id="intro" className="hero min-h-screen bg-base-200 pt-10 lg:pt-0">
       <div className="hero-content flex-col lg:flex-row-reverse p-0 mb-10 mt-10 lg:mt-0">
         <img
           alt="Noemi"
@@ -9,7 +9,7 @@ const Hero = () => {
         />
         <div className="pl-1.5">
           <h1 className="text-5xl font-bold">Enza Noemi Caggiano</h1>
-          <p className="py-6">
+          <p className="py-6 font-bold">
             Junior Software Developer 
           </p>
           <p className="py-6">
