@@ -12,7 +12,7 @@ const Projects = () => {
               id={`item${i + 1}`}
               className="carousel-item justify-center w-full mb-8"
             >
-              <div className="card w-3/5 bg-base-100 shadow-xl">
+              <div className="card mx-4 lg:w-3/5 bg-base-100 shadow-xl">
                 <figure className="px-10 pt-10">
                   <img src={proj.img} alt={proj.name} className="rounded-xl" />
                 </figure>
